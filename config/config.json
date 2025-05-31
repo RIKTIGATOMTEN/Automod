@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "enablelogs": true,
+    "logchannel": "",
+    "logcolor": "#7289DA",
+    "whitelistedRoles": [
+
+    ], 
+    "whitelistedUsers": [
+        
+    ],   
+    "blacklist": [
+      "hora",
+      "bög"
+    ]
+  }
+  

@@ -1,0 +1,9 @@
+framework: Xenshop
+name: Automod
+version: 1.4
+author: RiktigaTomten
+description: Automod som skyddar dina chattar mot förbjudna ord i din discord server
+
+mainfile: ./script/main.js
+mainconfig: ./config/config.json
+type: addon
